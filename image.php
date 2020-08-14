@@ -1,5 +1,6 @@
 <?php
 // Create a 55x30 image
+// comment
 $im = imagecreatetruecolor(200, 200);
 $white = imagecolorallocate($im, 255, 255, 255);
 $blue = imagecolorallocate($im, 0, 0, 255);
